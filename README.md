@@ -31,15 +31,15 @@ Alternatively, you can [**Download the ZIP**](https://github.com/yourusername/ja
 - Java basics and essential concepts  
 - How to set up a Java development environment  
 - Project planning and implementation  
-- Command-line and GUI application development  
-- Hands-on experience building a **Todo App** or **Employee Management App**  
+- Command-line and CUI based Console application development  
+- Hands-on experience building a **Todo App** 
 
 ---
 
 ## 🛠️ **Technologies Used**  
 - **Java SE (Standard Edition)**  
-- IDE: IntelliJ IDEA, Eclipse, or NetBeans  
-- GUI Framework: **Swing**  
+- IDE: Eclipse 
+
 
 ---
 
@@ -59,12 +59,12 @@ cd java-essentials-workshop
 ```  
 
 ### **2. Open in Your IDE**  
-- Import the project into IntelliJ IDEA, Eclipse, or NetBeans.  
+- Import the project into Eclipse.  
 - Ensure the Java Development Kit (JDK) is configured correctly.  
 
 ### **3. Compile and Run**  
-- For the command-line app: Run the `Main.java` file in the `src` directory.  
-- For the GUI app: Run the `MainGUI.java` file in the `src` directory.  
+- For the command-line app: Run the `<FileName>.java` file in the `src` directory.  
+
 
 ---
 
@@ -84,10 +84,9 @@ Feel free to open an issue in this repository or leave a comment on the YouTube 
 ---
 
 ## 🔔 **Stay Connected**  
-- 🌐 [Website](#)  
-- 📸 [Instagram](#)  
-- 🐦 [Twitter](#)  
-- 📘 [Facebook](#)  
+- 🌐 [Website](https://www.opentechz.com)  
+- 📸 [Instagram](https://www.instagram.com/opentechz/)  
+- 📘 [Facebook](https://www.facebook.com/Opentechz2019)  
 
 ---
 
