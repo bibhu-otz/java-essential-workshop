@@ -73,7 +73,7 @@ cd java-essentials-workshop
 | Resource | Link |  
 |----------|------|  
 | 🎥 Video Recording | [Watch Here](#) |  
-| 📥 Notes PDF | [Download Here](#) |  
+| 📥 Notes PDF | [Download Here](https://drive.google.com/file/d/1InjhnHYOBkXFUEJF-HnPfW23Ku3XnDZ6/view?usp=sharing) |  
 | 🌐 Repository Code | [GitHub Repository](https://github.com/yourusername/java-essentials-workshop) |  
 
 ---
